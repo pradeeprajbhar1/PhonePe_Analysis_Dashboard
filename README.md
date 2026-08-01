@@ -44,7 +44,7 @@ The PhonePe Analysis Dashboard helps users understand transaction trends, user e
 
 ## 📷 Dashboard Preview
 
-![PhonePe Dashboard](https://github.com/pradeeprajbhar1/PhonePe_Analysis_Dashboard/blob/main/PhonePe_Analysis.jpeg)
+![PhonePe Dashboard](https://github.com/pradeeprajbhar1/PhonePe_Analysis_Dashboard/blob/main/PhonePe_Analysis_Dashboard%20Snapshot.jpg)
 
 ---
 
